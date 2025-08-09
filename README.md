@@ -6,9 +6,8 @@ Optimized 3D printable bamboo copter designs for Bambu Lab A1 Mini with PLA fila
 
 ## Features
 - ✅ **Enhanced aerodynamics** with proper blade twist and angles
-- ✅ **Biomimetic design** inspired by maple seed autorotation
 - ✅ **Integrated spinning stick** with square grip for better control
-- ✅ **Multiple variants** - from lightweight 2-blade to optimized 3-blade designs
+- ✅ **Multiple variants** - optimized 3-blade and original parametric designs
 - ✅ **Ready-to-print** STL files and complete printing guide
 - ✅ **Optimized for Bambu Lab A1 Mini** and PLA filament
 
@@ -20,6 +19,4 @@ Optimized 3D printable bamboo copter designs for Bambu Lab A1 Mini with PLA fila
 
 ## Design Variants
 - **`bamboo_copter_optimized.scad`** - Best overall performance with enhanced aerodynamics
-- **`bamboo_copter.scad`** - Original parametric design  
-- **`maple_seed_copter.scad`** - Biomimetic single-wing design
-- **`lightweight_2blade.scad`** - Minimal weight for extended flight
+- **`bamboo_copter.scad`** - Original parametric design
