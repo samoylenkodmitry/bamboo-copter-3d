@@ -251,4 +251,8 @@ echo(str("Solidity: ", sigma));
 echo(str("Stick length: ", shaft_length_mm, "mm"));
 echo(str("Square hole size: ", shaft_hole_size_mm, "mm"));
 
+<<<<<<< HEAD
 optimized_rotor();
+=======
+optimized_rotor();
+>>>>>>> ecd639c (Initial commit: Complete bamboo copter design collection)
