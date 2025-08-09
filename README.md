@@ -20,3 +20,5 @@ Optimized 3D printable bamboo copter designs for Bambu Lab A1 Mini with PLA fila
 ## Design Variants
 - **`bamboo_copter_optimized.scad`** - Best overall performance with enhanced aerodynamics (designed by Claude Sonnet 4)
 - **`bamboo_copter.scad`** - Original parametric design (designed by GPT-5)
+
+<img width="874" height="590" alt="image" src="https://github.com/user-attachments/assets/4a66cec0-52a1-4a8f-bf8e-289e5a1d18d6" />
